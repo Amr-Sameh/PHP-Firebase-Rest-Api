@@ -1,0 +1,36 @@
+*.class
+.idea/
+*.sln
+bin/
+out/
+debug/
+Debug/
+.Vs/
+.vs/
+15v/
+Trailer/
+.obj/
+config.txt
+cache/
+out/
+*.html
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+workspace.xml
+# Package Files #
+*.jar
+*.war
+*.ear
+
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
