@@ -26,7 +26,7 @@
 
 //fell free to add your configuration
 define("JsonExtension",".json");
-$fireBaseUrl = "https://newme-69855.firebaseio.com/";
+$fireBaseUrl = "Your FireBase URL/";
 $path=$fireBaseUrl.$path.JsonExtension;
 if (isset($data))
 $json = json_encode( $data );
